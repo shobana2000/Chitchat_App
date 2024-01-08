@@ -2,9 +2,7 @@
 
 ChitChat is a simple chat application built with Node.js and Socket.io. It allows users to engage in real-time conversations.
 
-![Screenshot 2024-01-08 205659](https://github.com/shobana2000/Chitchat_App/assets/48212587/0ff5bc67-8cf9-4ffb-b5ea-d3216f16a4f4)
-
-![Screenshot 2024-01-08 205911](https://github.com/shobana2000/Chitchat_App/assets/48212587/1531d0ca-f66a-4cde-a4b7-3f659d9f864d)
+![Screenshot 2024-01-08 205911](https://github.com/shobana2000/Chitchat_App/assets/48212587/9ee9fa50-0f3c-4bd9-8e1f-6865e81a94c9)
 
 
 ## Features
